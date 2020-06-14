@@ -1,4 +1,4 @@
-# GrapQl basic code
+# GrapQL basic code
 
 ## this code info for learning grapql
 
